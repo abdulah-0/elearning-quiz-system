@@ -1,0 +1,6 @@
+Abdullah Khalid|4|5|1.5
+Abdullah Khalid|5|5|2.5
+shazaib|2|5|-0.5
+Haram Abdullah|5|5|2.5
+ahad|4|5|1.5
+Abdullah Khalid|3|5|0.5

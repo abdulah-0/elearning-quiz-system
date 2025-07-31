@@ -1,0 +1,101 @@
+The Earth is a sphere.|y|-1.5
+Water is composed of hydrogen and oxygen.|y|-1.5
+There are seven days in a week.|y|-1.5
+A year has 365 days.|y|-1.5
+The human body has bones.|y|-1.5
+Fire is hot.|y|-1.5
+Birds have feathers.|y|-1.5
+Fish live in water.|y|-1.5
+The sky is blue on a clear day.|y|-1.5
+Ice is solid water.|y|-1.5
+Two plus two equals four.|y|-1.0
+The sun rises in the east.|y|-1.0
+Humans need oxygen to survive.|y|-1.0
+Leaves are typically green.|y|-1.0
+Snow is white.|y|-1.0
+Cats are mammals.|y|-1.0
+Dogs bark.|y|-1.0
+Elephants are the largest land animals.|y|-1.0
+Bees make honey.|y|-1.0
+Grass is a plant.|y|-1.0
+The capital of France is Paris.|y|-0.5
+Square root of 9 is 3.|y|-0.5
+Penguins are flightless birds.|y|-0.5
+Humans have two eyes.|y|-0.5
+A triangle has three sides.|y|-0.5
+The Statue of Liberty is in New York.|y|-0.5
+The Great Wall of China is in China.|y|-0.5
+The Pacific is the largest ocean.|y|-0.5
+Mount Everest is above 8000 meters.|y|-0.5
+London is the capital of the UK.|y|-0.5
+Lightning is hotter than the surface of the sun.|y|0.0
+Sound travels at approximately 343 m/s in air at 20°C.|y|0.0
+The human heart has four chambers.|y|0.0
+Pi is an irrational number.|y|0.0
+Light behaves as both wave and particle.|y|0.0
+DNA carries genetic information.|y|0.0
+The function of red blood cells is to carry oxygen.|y|0.0
+The chemical symbol for water is H2O.|y|0.0
+The capital of Germany is Berlin.|y|0.0
+An adult human has 32 teeth.|y|0.0
+The chemical symbol for gold is Au.|y|0.5
+The element with atomic number 6 is carbon.|y|0.5
+The speed of light is approximately 299,792 km/s.|y|0.5
+E = mc^2 is Einstein’s mass-energy equivalence formula.|y|0.5
+Mars is known as the Red Planet.|y|0.5
+Venus has a surface temperature high enough to melt lead.|y|0.5
+Neptune is farther from the sun than Jupiter.|y|0.5
+Mercury has no natural satellites.|y|0.5
+A leap year has 366 days.|y|0.5
+The largest bone in the human body is the femur.|y|0.5
+The deepest part of the ocean is the Mariana Trench.|y|1.0
+The largest organ in the human body is the skin.|y|1.0
+The Great Barrier Reef is located in Australia.|y|1.0
+The capital of Canada is Ottawa.|y|1.0
+Shakespeare wrote "Hamlet".|y|1.0
+The Amazon River is the longest river in the world.|n|1.0
+The Sahara Desert is in Africa.|y|1.0
+The currency of Japan is the Yen.|y|1.0
+The chemical formula for table salt is NaCl.|y|1.0
+The smallest prime number is 2.|y|1.0
+The moon is moving away from Earth at about 3.8 cm per year.|y|1.5
+There are 118 known chemical elements.|y|1.5
+The speed of sound in water is faster than in air.|y|1.5
+Electrons are negatively charged.|y|1.5
+The theory of relativity was published in 1915.|y|1.5
+Quantum mechanics describes the behavior of particles at small scales.|y|1.5
+A light year is a measure of distance, not time.|y|1.5
+The RNA molecule is single-stranded.|y|1.5
+Penicillin was the first antibiotic discovered.|y|1.5
+The Wright Brothers made the first powered flight in 1903.|y|1.5
+Heisenberg’s uncertainty principle states you cannot simultaneously know position and momentum exactly.|y|2.0
+The electron’s mass is approximately 9.11×10^-31 kilograms.|y|2.0
+Schrödinger’s cat is a thought experiment illustrating superposition.|y|2.0
+The mitochondria is the powerhouse of the cell.|y|2.0
+The Bohr model describes electrons in discrete orbits around the nucleus.|y|2.0
+The Pythagorean theorem applies to right-angled triangles.|y|2.0
+The Riemann Hypothesis is a proven theorem.|n|2.0
+The Black-Scholes model is used for option pricing.|y|2.0
+The speed of light is constant in all inertial frames.|y|2.0
+Gamma radiation has higher energy than X-rays.|y|2.0
+Fermat’s Last Theorem was proven by Andrew Wiles.|y|2.5
+The Navier-Stokes equations have a general proof for existence and smoothness.|n|2.5
+A Turing machine can simulate any other Turing machine.|y|2.5
+The halting problem is decidable.|n|2.5
+NP = P has been proven.|n|2.5
+The Mandelbrot set is connected.|y|2.5
+The Collatz conjecture is still unproven.|y|2.5
+Quantum entanglement involves faster-than-light communication.|n|2.5
+Gödel’s incompleteness theorems apply to sufficiently powerful axiomatic systems.|y|2.5
+Prime numbers become less frequent as numbers grow larger.|y|2.5
+The Navier-Stokes equations in three dimensions have known global solutions for all initial conditions.|n|3.0
+The Riemann zeta function is defined for all complex numbers except s=1.|y|3.0
+Yang–Mills theory’s mass gap has been proven.|n|3.0
+The Birch and Swinnerton-Dyer conjecture is one of the Millennium Prize Problems.|y|3.0
+The Hodge conjecture concerns algebraic cycles and cohomology classes.|y|3.0
+The P vs NP problem is unresolved.|y|3.0
+Million-dollar Clay Millennium problems include NP vs P and Riemann Hypothesis.|y|3.0
+The abc conjecture has a universally accepted proof.|n|3.0
+The Euler characteristic of a sphere is 2.|y|3.0
+Quantum field theory unifies quantum mechanics and special relativity.|y|3.0
+
